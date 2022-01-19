@@ -1,0 +1,16 @@
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.exe
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.deps.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.dev.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\ref\VarsAndData.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.pdb
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.AssemblyReference.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfoInputs.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfo.cs
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.CoreCompileInputs.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\ref\VarsAndData.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.pdb
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.genruntimeconfig.cache
