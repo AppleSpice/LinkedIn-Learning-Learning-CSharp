@@ -1,0 +1,15 @@
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Overview\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
