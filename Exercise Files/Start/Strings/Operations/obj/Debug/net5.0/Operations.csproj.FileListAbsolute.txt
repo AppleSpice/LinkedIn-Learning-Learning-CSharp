@@ -1,0 +1,16 @@
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.exe
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.deps.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.runtimeconfig.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.runtimeconfig.dev.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\ref\Operations.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\bin\Debug\net5.0\Operations.pdb
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.csproj.AssemblyReference.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.AssemblyInfoInputs.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.AssemblyInfo.cs
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.csproj.CoreCompileInputs.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\ref\Operations.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.pdb
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Operations\obj\Debug\net5.0\Operations.genruntimeconfig.cache
