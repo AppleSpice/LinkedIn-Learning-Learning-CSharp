@@ -1,0 +1,16 @@
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\bin\Debug\net5.0\Strings.exe
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\bin\Debug\net5.0\Strings.deps.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\bin\Debug\net5.0\Strings.runtimeconfig.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\bin\Debug\net5.0\Strings.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\bin\Debug\net5.0\ref\Strings.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\bin\Debug\net5.0\Strings.pdb
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\obj\Debug\net5.0\Strings.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\obj\Debug\net5.0\ref\Strings.dll
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\obj\Debug\net5.0\Strings.pdb
+C:\Users\gaven\Desktop\LinkedIn Learning - Learning C#\Exercise Files\Start\Strings\Interpolation\obj\Debug\net5.0\Strings.genruntimeconfig.cache
