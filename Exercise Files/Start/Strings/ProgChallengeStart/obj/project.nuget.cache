@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJIyiPNJohTbdn2VxUN//zkrOpVt/MlABH/34dDPsbShYzHl3nwxopBuahvh/7WisCY9Hln6dVRAXaSJsTgx7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gaven\\source\\repos\\LinkedIn-Learning-Learning-CSharp\\Exercise Files\\Start\\Strings\\ProgChallengeStart\\ProgChallengeStart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gaven\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

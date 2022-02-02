@@ -1,0 +1,16 @@
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.exe
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.deps.json
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.json
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.dev.json
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ref\ProgChallengeStart.dll
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.AssemblyReference.cache
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfoInputs.cache
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfo.cs
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.CoreCompileInputs.cache
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ref\ProgChallengeStart.dll
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\gaven\source\repos\LinkedIn-Learning-Learning-CSharp\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.genruntimeconfig.cache
