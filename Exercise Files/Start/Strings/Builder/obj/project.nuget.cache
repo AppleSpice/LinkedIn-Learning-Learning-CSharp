@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bL9eo1BrY/bCoPa9oUbv+ITqfAN2s5r+aXzEy03P+cc2DdSP8Nu+snFZxY+rkj0fjPsiDoQ3KHhbdb7TOO9rEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gaven\\source\\repos\\LinkedIn-Learning-Learning-CSharp\\Exercise Files\\Start\\Strings\\Builder\\Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gaven\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
